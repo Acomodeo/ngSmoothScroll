@@ -1,0 +1,31 @@
+{
+    "name": "@acomodeo/ng-smooth-scroll",
+    "version": "2.0.1",
+    "description": "A pure-javascript library and set of directives to scroll smoothly to an element with easing.",
+    "main": "lib/angular-smooth-scroll.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Acomodeo/ngSmoothScroll.git"
+    },
+    "publishConfig": {
+        "registry":"https://npm.pkg.github.com/"
+    },
+    "keywords": [
+        "angularjs",
+        "smooth scroll",
+        "scrolling",
+        "scroll effects",
+        "scroll animations",
+        "smooth",
+        "scroll"
+    ],
+    "author": "David Oliveros <dato.oliveros@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Acomodeo/ngSmoothScroll/issues"
+    },
+    "homepage": "https://github.com/Acomodeo/ngSmoothScroll#readme"
+}
